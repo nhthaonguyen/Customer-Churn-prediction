@@ -17,3 +17,13 @@ Tableau
 
 
 ![](https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/churn-predict-profile.png)
+
+---
+You can visit my other Customer Analysis here 💁🏻‍ 
+
+📌[Customer Clustering using K-Prototypes](https://github.com/nhthaonguyen/Customer-Clustering-KPrototypes)
+
+📌[Customer Clustering using K-Means](https://github.com/nhthaonguyen/Customer-Clustering-KMeans)
+
+📌[Customer Segmentation analysis (without ML)](https://github.com/nhthaonguyen/Customer-Segmentation---RFM-Analysis)
+
